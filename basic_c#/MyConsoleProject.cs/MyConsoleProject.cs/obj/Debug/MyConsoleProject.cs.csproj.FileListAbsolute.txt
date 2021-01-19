@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\MyConsoleProject.cs.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\MyConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\MyConsoleProject.cs.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\MyConsoleProject.cs.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\MyConsoleProject.cs.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\MyConsoleProject.cs.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\MyConsoleProject.cs.pdb

@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

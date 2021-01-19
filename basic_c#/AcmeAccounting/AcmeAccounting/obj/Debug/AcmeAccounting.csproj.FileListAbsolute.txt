@@ -1,0 +1,6 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.pdb
