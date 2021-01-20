@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
