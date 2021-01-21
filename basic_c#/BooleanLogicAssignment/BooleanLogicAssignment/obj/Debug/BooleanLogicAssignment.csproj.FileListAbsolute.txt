@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
