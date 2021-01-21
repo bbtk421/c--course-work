@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\IfElseStatements\IfElseStatements\obj\Debug\IfElseStatements.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\IfElseStatements\IfElseStatements\bin\Debug\IfElseStatements.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\IfElseStatements\IfElseStatements\bin\Debug\IfElseStatements.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\IfElseStatements\IfElseStatements\bin\Debug\IfElseStatements.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\IfElseStatements\IfElseStatements\obj\Debug\IfElseStatements.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\IfElseStatements\IfElseStatements\obj\Debug\IfElseStatements.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\IfElseStatements\IfElseStatements\obj\Debug\IfElseStatements.csprojAssemblyReference.cache

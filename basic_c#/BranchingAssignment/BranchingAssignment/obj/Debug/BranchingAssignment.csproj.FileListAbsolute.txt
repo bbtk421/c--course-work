@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
