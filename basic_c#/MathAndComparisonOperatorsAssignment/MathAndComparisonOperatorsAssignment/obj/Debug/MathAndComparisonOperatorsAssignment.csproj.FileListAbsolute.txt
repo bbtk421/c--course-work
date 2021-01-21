@@ -1,0 +1,6 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MathAndComparisonOperatorsAssignment\MathAndComparisonOperatorsAssignment\bin\Debug\MathAndComparisonOperatorsAssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MathAndComparisonOperatorsAssignment\MathAndComparisonOperatorsAssignment\bin\Debug\MathAndComparisonOperatorsAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MathAndComparisonOperatorsAssignment\MathAndComparisonOperatorsAssignment\bin\Debug\MathAndComparisonOperatorsAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MathAndComparisonOperatorsAssignment\MathAndComparisonOperatorsAssignment\obj\Debug\MathAndComparisonOperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MathAndComparisonOperatorsAssignment\MathAndComparisonOperatorsAssignment\obj\Debug\MathAndComparisonOperatorsAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MathAndComparisonOperatorsAssignment\MathAndComparisonOperatorsAssignment\obj\Debug\MathAndComparisonOperatorsAssignment.pdb
