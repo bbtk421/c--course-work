@@ -1,0 +1,6 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb

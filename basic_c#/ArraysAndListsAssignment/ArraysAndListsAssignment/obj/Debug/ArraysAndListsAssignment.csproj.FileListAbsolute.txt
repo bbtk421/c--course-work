@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\ArraysAndListsAssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\ArraysAndListsAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\ArraysAndListsAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.csprojAssemblyReference.cache
