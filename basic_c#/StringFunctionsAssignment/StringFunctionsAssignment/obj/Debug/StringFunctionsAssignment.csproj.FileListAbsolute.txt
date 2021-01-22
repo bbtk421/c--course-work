@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StringFunctionsAssignment\StringFunctionsAssignment\bin\Debug\StringFunctionsAssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StringFunctionsAssignment\StringFunctionsAssignment\bin\Debug\StringFunctionsAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StringFunctionsAssignment\StringFunctionsAssignment\bin\Debug\StringFunctionsAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StringFunctionsAssignment\StringFunctionsAssignment\obj\Debug\StringFunctionsAssignment.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StringFunctionsAssignment\StringFunctionsAssignment\obj\Debug\StringFunctionsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StringFunctionsAssignment\StringFunctionsAssignment\obj\Debug\StringFunctionsAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\StringFunctionsAssignment\StringFunctionsAssignment\obj\Debug\StringFunctionsAssignment.pdb
