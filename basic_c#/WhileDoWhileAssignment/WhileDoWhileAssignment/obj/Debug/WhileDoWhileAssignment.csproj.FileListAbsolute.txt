@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\WhileDoWhileAssignment\WhileDoWhileAssignment\bin\Debug\WhileDoWhileAssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\WhileDoWhileAssignment\WhileDoWhileAssignment\bin\Debug\WhileDoWhileAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\WhileDoWhileAssignment\WhileDoWhileAssignment\bin\Debug\WhileDoWhileAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.csprojAssemblyReference.cache
