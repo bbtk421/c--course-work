@@ -1,0 +1,7 @@
+C:\Users\bbtk4\source\repos\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\bbtk4\source\repos\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\bbtk4\source\repos\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\bbtk4\source\repos\Iteration\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
+C:\Users\bbtk4\source\repos\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\source\repos\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\bbtk4\source\repos\Iteration\Iteration\obj\Debug\Iteration.pdb

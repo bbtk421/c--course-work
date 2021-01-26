@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ConsoleAppSixPartAsssignment\ConsoleAppSixPartAsssignment\bin\Debug\ConsoleAppSixPartAsssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ConsoleAppSixPartAsssignment\ConsoleAppSixPartAsssignment\bin\Debug\ConsoleAppSixPartAsssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ConsoleAppSixPartAsssignment\ConsoleAppSixPartAsssignment\bin\Debug\ConsoleAppSixPartAsssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ConsoleAppSixPartAsssignment\ConsoleAppSixPartAsssignment\obj\Debug\ConsoleAppSixPartAsssignment.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ConsoleAppSixPartAsssignment\ConsoleAppSixPartAsssignment\obj\Debug\ConsoleAppSixPartAsssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ConsoleAppSixPartAsssignment\ConsoleAppSixPartAsssignment\obj\Debug\ConsoleAppSixPartAsssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ConsoleAppSixPartAsssignment\ConsoleAppSixPartAsssignment\obj\Debug\ConsoleAppSixPartAsssignment.pdb
