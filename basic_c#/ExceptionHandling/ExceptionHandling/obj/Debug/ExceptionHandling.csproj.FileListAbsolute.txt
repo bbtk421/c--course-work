@@ -1,0 +1,14 @@
+C:\Users\bbtk4\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\bbtk4\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\bbtk4\source\repos\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\bbtk4\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\bbtk4\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\bbtk4\source\repos\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
