@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MethodOptionalParametersAssignemnt\MethodOptionalParametersAssignemnt\bin\Debug\MethodOptionalParametersAssignemnt.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MethodOptionalParametersAssignemnt\MethodOptionalParametersAssignemnt\bin\Debug\MethodOptionalParametersAssignemnt.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MethodOptionalParametersAssignemnt\MethodOptionalParametersAssignemnt\bin\Debug\MethodOptionalParametersAssignemnt.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MethodOptionalParametersAssignemnt\MethodOptionalParametersAssignemnt\obj\Debug\MethodOptionalParametersAssignemnt.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MethodOptionalParametersAssignemnt\MethodOptionalParametersAssignemnt\obj\Debug\MethodOptionalParametersAssignemnt.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MethodOptionalParametersAssignemnt\MethodOptionalParametersAssignemnt\obj\Debug\MethodOptionalParametersAssignemnt.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\MethodOptionalParametersAssignemnt\MethodOptionalParametersAssignemnt\obj\Debug\MethodOptionalParametersAssignemnt.pdb
