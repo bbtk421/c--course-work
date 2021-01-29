@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ClassMethodAssignment2\ClassMethodAssignment2\bin\Debug\ClassMethodAssignment2.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ClassMethodAssignment2\ClassMethodAssignment2\bin\Debug\ClassMethodAssignment2.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ClassMethodAssignment2\ClassMethodAssignment2\bin\Debug\ClassMethodAssignment2.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ClassMethodAssignment2\ClassMethodAssignment2\obj\Debug\ClassMethodAssignment2.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ClassMethodAssignment2\ClassMethodAssignment2\obj\Debug\ClassMethodAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ClassMethodAssignment2\ClassMethodAssignment2\obj\Debug\ClassMethodAssignment2.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ClassMethodAssignment2\ClassMethodAssignment2\obj\Debug\ClassMethodAssignment2.pdb
