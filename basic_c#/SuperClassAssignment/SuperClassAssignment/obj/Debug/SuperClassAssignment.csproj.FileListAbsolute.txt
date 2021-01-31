@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\SuperClassAssignment\SuperClassAssignment\bin\Debug\SuperClassAssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\SuperClassAssignment\SuperClassAssignment\bin\Debug\SuperClassAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\SuperClassAssignment\SuperClassAssignment\bin\Debug\SuperClassAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\SuperClassAssignment\SuperClassAssignment\obj\Debug\SuperClassAssignment.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\SuperClassAssignment\SuperClassAssignment\obj\Debug\SuperClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\SuperClassAssignment\SuperClassAssignment\obj\Debug\SuperClassAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\SuperClassAssignment\SuperClassAssignment\obj\Debug\SuperClassAssignment.pdb
