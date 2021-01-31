@@ -13,6 +13,8 @@ namespace AbstractClassAssignment
             Employee employee = new Employee(); // instanciating object
             employee.SayName("Sample", "Student"); // with these values
             Console.ReadLine();
+            employee.Quit(employee);
+
         }
 
     }
