@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Game
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
-        
-        public void ListPlayers()
+
+        public abstract void Play(); // no implimentation, send Play() to any class inheritting from Game
+
+        public virtual void ListPlayers() // gets inheritted has implimentation but can be overridden
         {
         foreach (string player in Players)
             {
