@@ -16,8 +16,18 @@ namespace SuperClassAssignment
                 LastName = "Student"
             };
 
+            Employee employee1 = new Employee
+            {
+                FirstName = "Temp",
+                LastName = "Teacher"
+            };
+
             employee.SayName(); // call method on object
             Console.ReadLine();
+
         }
+
+
     }
 }
+
