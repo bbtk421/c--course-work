@@ -11,22 +11,15 @@ namespace TwentyOne
         public Deck() // constructor
         {
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "Diamonds", "Hearts", "Diamonds", "Spades" };
-            List<string> Faces = new List<string>()
-            {
-                "Two","Three","Four","Five","Six","Seven",
-                "Eight","Nine","Ten","Jack","Queen","King","Ace"
-            };
 
-            foreach (string face in Faces)
+            for (int i = 0; i < 13; i++) // looping through faces, creating each card
             {
-                foreach (string suit in Suits)
+                for (int j = 0; j < 4; j++) // looping through suits
                 {
-                    Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
-                    Cards.Add(card);
-
+                    Card card = new Card(); // creates each new card
+                    card.Face = (Face)i; // casting to int using the ()
+                    card.Suit = (Suit)j;
+                    Cards.Add(card); // adds card to deck
                 }
             }
         }
