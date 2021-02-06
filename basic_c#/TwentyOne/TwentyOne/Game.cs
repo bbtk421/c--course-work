@@ -8,9 +8,12 @@ namespace TwentyOne
 {
     public abstract class Game
     {
-        public List<Player> Players { get; set; }
+        private List<Player> _players = new List<Player>(); // private lists so it wont be null and not work
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>(); // this too
+        
+        public List<Player> Players { get { return _players; } set { _players = value; } } // add private varables
         public string Name { get; set; }
-        public string Dealer { get; set; }
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } } // keeps track of players and thier bets
 
         public abstract void Play(); // no implimentation, send Play() to any class inheritting from Game
 
