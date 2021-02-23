@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\LoggingAssignment\LoggingAssignment\bin\Debug\LoggingAssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\LoggingAssignment\LoggingAssignment\bin\Debug\LoggingAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\LoggingAssignment\LoggingAssignment\bin\Debug\LoggingAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\LoggingAssignment\LoggingAssignment\obj\Debug\LoggingAssignment.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\LoggingAssignment\LoggingAssignment\obj\Debug\LoggingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\LoggingAssignment\LoggingAssignment\obj\Debug\LoggingAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\LoggingAssignment\LoggingAssignment\obj\Debug\LoggingAssignment.pdb

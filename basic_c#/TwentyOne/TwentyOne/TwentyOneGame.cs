@@ -58,12 +58,14 @@ namespace TwentyOne
                 {
                     bool blackJack = TwentyOneRules.CheckForBlackJack(Dealer.Hand);
                     if (blackJack)
+                    {
                         Console.WriteLine("Dealer has BlackJack! Everyone Loses!");
                         foreach (KeyValuePair<Player, int> entry in Bets)
                         {
                             Dealer.Balance += entry.Value;
                         }
-                    return;
+                        return;
+                    }
                 }
             }
             foreach (Player player in Players)
