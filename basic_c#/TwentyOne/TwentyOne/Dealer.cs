@@ -20,7 +20,8 @@ namespace TwentyOne
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\TwentyOne\log.txt", true))
             {
-                file.WriteLine(card);
+                file.WriteLine(DateTime.Now); // logs time of each card dealt
+                file.WriteLine(card); // logs the card itself
             }
             Deck.Cards.RemoveAt(0);
         }
