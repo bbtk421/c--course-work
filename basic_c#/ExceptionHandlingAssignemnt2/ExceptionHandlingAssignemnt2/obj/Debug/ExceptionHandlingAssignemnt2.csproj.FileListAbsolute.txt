@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandlingAssignemnt2\ExceptionHandlingAssignemnt2\bin\Debug\ExceptionHandlingAssignemnt2.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandlingAssignemnt2\ExceptionHandlingAssignemnt2\bin\Debug\ExceptionHandlingAssignemnt2.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandlingAssignemnt2\ExceptionHandlingAssignemnt2\bin\Debug\ExceptionHandlingAssignemnt2.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandlingAssignemnt2\ExceptionHandlingAssignemnt2\obj\Debug\ExceptionHandlingAssignemnt2.csprojAssemblyReference.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandlingAssignemnt2\ExceptionHandlingAssignemnt2\obj\Debug\ExceptionHandlingAssignemnt2.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandlingAssignemnt2\ExceptionHandlingAssignemnt2\obj\Debug\ExceptionHandlingAssignemnt2.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\ExceptionHandlingAssignemnt2\ExceptionHandlingAssignemnt2\obj\Debug\ExceptionHandlingAssignemnt2.pdb

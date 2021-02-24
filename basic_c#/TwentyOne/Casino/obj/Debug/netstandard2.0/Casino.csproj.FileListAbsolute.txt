@@ -1,0 +1,8 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\Casino\bin\Debug\netstandard2.0\Casino.deps.json
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\Casino\bin\Debug\netstandard2.0\Casino.dll
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\Casino\bin\Debug\netstandard2.0\Casino.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.dll
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.pdb

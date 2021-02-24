@@ -5,3 +5,6 @@ C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\TwentyOne\obj\
 C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete

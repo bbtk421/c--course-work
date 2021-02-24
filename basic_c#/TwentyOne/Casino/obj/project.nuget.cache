@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KD9Zb0VEStS0hB/AH+WpCV3FMKZiyi4XP6qn/TtmEmi3cFzDhT/4pXZe8RneM9MIGBJF5Z/7qvNpP6t57/VwHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bbtk4\\Documents\\GitHub\\c--course-work\\basic_c#\\TwentyOne\\Casino\\Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bbtk4\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bbtk4\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
