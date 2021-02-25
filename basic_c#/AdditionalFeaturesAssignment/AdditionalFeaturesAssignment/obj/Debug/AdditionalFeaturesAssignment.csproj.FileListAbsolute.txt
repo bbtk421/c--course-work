@@ -1,0 +1,7 @@
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.exe.config
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.exe
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.pdb
+C:\Users\bbtk4\Documents\GitHub\c--course-work\basic_c#\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.csprojAssemblyReference.cache
