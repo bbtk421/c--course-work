@@ -15,10 +15,10 @@ namespace AdditionalFeaturesAssignment
 
 
             Person myPerson = new Person("Andy", "Johnson");
-            Console.WriteLine(myPerson.fName + myPerson.lName);
+            Console.WriteLine(myPerson.FName + " " + myPerson.LName);
             Console.ReadLine();
             Person myPerson2 = new Person("Brian");
-            Console.WriteLine(myPerson2.fName + myPerson2.lName);
+            Console.WriteLine(myPerson2.FName + " " + myPerson2.LName);
             Console.ReadLine();
 
         }

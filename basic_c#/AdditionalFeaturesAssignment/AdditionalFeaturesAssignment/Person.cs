@@ -14,11 +14,11 @@ namespace AdditionalFeaturesAssignment
         }
         public Person(string fName, string lName)
         {
-            fName = fName;
-            lName = lName;
+            FName = fName;
+            LName = lName;
         }
-        public string fName { get; set; }
-        public string lName { get; set; }
+        public string FName { get; set; }
+        public string LName { get; set; }
     
     }
 }
