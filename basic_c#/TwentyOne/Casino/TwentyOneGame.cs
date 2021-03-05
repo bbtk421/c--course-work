@@ -35,7 +35,7 @@ namespace Casino.TwentyOne
                 }
                 if (bet < 0)
                 {
-                    throw new FraudException();
+                    throw new FraudException("Those kneecaps look awfully nice, be a shame if someone were to smash em...");
                 }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
