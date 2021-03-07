@@ -8,7 +8,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using System.Web.Mvc;
 
 
 namespace ChallengeSubmissionAssignment
@@ -26,11 +25,6 @@ namespace ChallengeSubmissionAssignment
 				{
 					webBuilder.UseStartup<Startup>();
 				});
-		
-		public void OnGet()
-		{
-			string dateTime = DateTime.Now.ToShortTimeString();
-			ViewData["TimeStamp"] = dateTime;
-		}
+	
 	}
 }

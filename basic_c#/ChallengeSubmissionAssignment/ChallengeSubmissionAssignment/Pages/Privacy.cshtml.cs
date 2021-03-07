@@ -19,6 +19,8 @@ namespace ChallengeSubmissionAssignment.Pages
 
 		public void OnGet()
 		{
+			string dateTime = DateTime.Now.ToShortTimeString();
+			ViewData["TimeStamp"] = dateTime;
 		}
 	}
 }
