@@ -1,6 +1,7 @@
 # C# Projects
 
-These are some small projects I made in C# and .NET Framework/Core.
+These are some small projects I made in C# and .NET Framework/Core. Through my studies I become
+familiar to proficient in Databases via SQL and Enitity and the creation of MVC applications.
 
 ## Projects:
 
